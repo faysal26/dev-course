@@ -112,8 +112,9 @@ hr {
   height: 66px;
 }
 .instructor h3 {
-  font-size: 20px;
+  font-size: 17px;
   margin-left: 16px;
+  font-weight: 600;
 }
 
 /* -------------------------------------------- */
