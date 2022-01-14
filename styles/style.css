@@ -202,12 +202,13 @@ margin-right: 25px;
 }
 .course-duration{
 background-color: #FFE4E8;
+font-size: 15px;
 border-radius: 50px;
 color: #FF4A60;
 padding: 2px 7px;
 }
 .fa-chevron-circle-right{
-    font-size: 60px;
+    font-size: 45px;
     margin-top: 40px;
     color: #A2A2A2;
 
